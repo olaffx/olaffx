@@ -69,4 +69,4 @@
 - all stuff are experimental
 - use at ur own risk
 
-# IM NOT RESPONSIBLE FOR ANY BRICKED PHONES/SD CARDS ETC!!!
+## IM NOT RESPONSIBLE FOR ANY BRICKED PHONES/SD CARDS ETC!!!
