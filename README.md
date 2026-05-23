@@ -70,3 +70,5 @@
 - use at ur own risk
 
 ## IM NOT RESPONSIBLE FOR ANY BRICKED PHONES/SD CARDS ETC!!!
+
+(not all projects made by me)
