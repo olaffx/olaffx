@@ -69,6 +69,14 @@
 - all stuff are experimental
 - use at ur own risk
 
+## Discord servers
+
+https://discord.gg/maxeysvisuals
+
+https://discord.gg/qZYqBQgbDH
+
+---
+
 ## IM NOT RESPONSIBLE FOR ANY BRICKED PHONES/SD CARDS ETC!!!
 
 (not all projects made by me)
