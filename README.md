@@ -77,6 +77,14 @@ https://discord.gg/qZYqBQgbDH
 
 ---
 
+## I also...
+
+Jailbroke iPhones with **Chimera, and Dopamine**
+
+Used the **iPhone 6, 7, another 7, 11, and 16e.**
+
+---
+
 ## IM NOT RESPONSIBLE FOR ANY BRICKED PHONES/SD CARDS ETC!!!
 
 (not all projects made by me)
