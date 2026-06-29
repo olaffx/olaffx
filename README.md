@@ -36,6 +36,13 @@
 - Galaxy a20e, no projects for it **yet**
 - and more budget Android phones (most of them bricked)
 
+- iPhone 7, a LOT of projects for it (not finished)
+
+- another iPhone 7
+
+- iPhone 6, i don't make projects for it (too old)
+
+- **way more**
 ---
 
 ## Projects
