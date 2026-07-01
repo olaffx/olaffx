@@ -22,6 +22,17 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Jailbreak](https://img.shields.io/badge/Jailbreak-333333?logo=apple&logoColor=white)
+![Cydia](https://img.shields.io/badge/Cydia-9C27B0?logo=cydia&logoColor=white)
+![Checkra1n](https://img.shields.io/badge/checkra1n-1E1E1E?logo=apple&logoColor=white)
+![Sileo](https://img.shields.io/badge/Sileo-2E86AB?logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?logo=testflight&logoColor=white)
+![AppStore](https://img.shields.io/badge/App%20Store-0D96F6?logo=appstore&logoColor=white)
 
 ---
 
@@ -48,7 +59,6 @@
 ## Projects
 
 ### Main stuff
-- Maxey's Visuals (https://discord.gg/smwjBaf2Wp)
 - Vineshade (https://github.com/olaffx/VineShade)
 - olaffx (this config)
 
@@ -75,12 +85,6 @@
 
 - all stuff are experimental
 - use at ur own risk
-
-## Discord servers
-
-https://discord.gg/maxeysvisuals
-
-https://discord.gg/qZYqBQgbDH
 
 ---
 
