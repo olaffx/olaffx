@@ -79,6 +79,7 @@
 ## I also...
 
 > Jailbroke iPhones with **Chimera, and Dopamine**
+> 
 > Used the **iPhone 6, 7, another 7, 11, and 16e.**
 
 ---
