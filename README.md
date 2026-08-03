@@ -145,7 +145,7 @@
 
 ## Things I Learned
 
-* backups are not optional
+* kernel 3 is a pain in the ass
 * logs are everything
 * one change can break everything
 * patience is required (or be good at porting)
