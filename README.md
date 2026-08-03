@@ -1,6 +1,6 @@
 # hello world
 
-> Arch Linux user btw  
+> Arch Linux user btw
 
 ---
 
@@ -8,92 +8,154 @@
 
 # I build useless Android stuff that make phones blow up
 
-- ROM things idk.
-- Device modding
-- Experimental stuff
-- Daily driving **Arch** Linux
-
----
-
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![AOSP](https://img.shields.io/badge/AOSP-FF6F00?logo=android&logoColor=white)
-![LineageOS](https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=white)
-![Magisk](https://img.shields.io/badge/Magisk-00AF9C?logo=magisk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Jailbreak](https://img.shields.io/badge/Jailbreak-333333?logo=apple&logoColor=white)
-![Cydia](https://img.shields.io/badge/Cydia-9C27B0?logo=cydia&logoColor=white)
-![Checkra1n](https://img.shields.io/badge/checkra1n-1E1E1E?logo=apple&logoColor=white)
-![Sileo](https://img.shields.io/badge/Sileo-2E86AB?logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
-![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?logo=testflight&logoColor=white)
-![AppStore](https://img.shields.io/badge/App%20Store-0D96F6?logo=appstore&logoColor=white)
+* ROM things idk
+* Device modding
+* Experimental stuff
+* Daily driving **Arch** Linux
 
 ---
 
 ## Devices i Work On
 
 ### Main device
-- **Redmi Note 9 Pro (miatoll)**
-  - ROMs: Laggy ColorOS ports / Evo X
-  - Status: ahhmazing phone
+
+> **Redmi Note 9 Pro (miatoll)**
+
+> ROMs: Laggy ColorOS ports / Evo X
+
+> Status: ahhmazing phone
 
 ### Secondary Devices
 
-- Samsung Galaxy S7 (bricked, rip.)
+> Samsung Galaxy S7 (bricked, rip.)
 
-- Galaxy a20e, no projects for it cuz can't unlock BL
-- and more budget Android phones (most of them bricked)
+> Galaxy a20e, no projects for it cuz can't unlock BL
 
-- iPhone 7, a LOT of projects for it (not finished)
+> and more budget Android phones (most of them bricked)
 
-- another iPhone 7
+> iPhone 7, a LOT of projects for it (not finished)
+> another iPhone 7
+> iPhone 6, i don't make projects for it (too old)
 
-- iPhone 6, i don't make projects for it (too old)
+> **way more**
 
-- **way more**
 ---
 
 ## Projects
 
 ### Main stuff
-- Vineshade (https://github.com/olaffx/VineShade)
-- olaffx (this config)
+
+> Vineshade (https://github.com/olaffx/VineShade)
+
+> olaffx (this config)
 
 ---
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=olaffx&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=olaffx\&show_icons=true\&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olaffx&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olaffx\&layout=compact\&theme=radical)
 
 ---
+
 ## ROMs i personally use
 
-![Evolution X for miatoll (A16)](https://evolution-x.org/devices/miatoll)
+> Evolution X for miatoll (A16)
+> https://evolution-x.org/devices/miatoll
 
-![PixelOS for miatoll](https://pixelos.net/download/miatoll)
+> PixelOS for miatoll
+> https://pixelos.net/download/miatoll
 
 ---
 
 ## Notes
 
-- all stuff are experimental
-- use at ur own risk
+* all stuff are experimental
+* use at ur own risk
 
 ---
 
 ## I also...
 
-Jailbroke iPhones with **Chimera, and Dopamine**
+> Jailbroke iPhones with **Chimera, and Dopamine**
+> Used the **iPhone 6, 7, another 7, 11, and 16e.**
 
-Used the **iPhone 6, 7, another 7, 11, and 16e.**
+---
+
+## Goals
+
+* make better ROM ports
+* actually finish projects
+* learn how porting really works
+* stop bricking devices
+* maybe make something stable (done! **no wifi**)
+
+---
+
+## Progress Tracker
+
+### Overall Progress
+![progress](https://progress-bar.xyz/35/?title=progress)
+
+### Goals Status
+
+- [x] make better ROM ports
+- [ ] actually finish projects
+- [ ] learn how porting really works
+- [ ] stop bricking devices 😭
+- [x] maybe make something stable (done! **no wifi**)
+
+### Live Status
+
+| thing            | status        |
+|-----------------|--------------|
+| current project | none         |
+| rom stability   | fine ig      |
+| devices alive   | kinda        |
+| sanity          | im good      |
+
+---
+
+## Future Plans
+
+* try porting newer OEM ROMs (and not booting gsis...)
+* mess with kernel stuff (make my own kernel?)
+* improve performance on miatoll
+* finish at least one real project
+* get a better device for testing (done!)
+
+---
+
+## Setup
+
+> Arch Linux
+> too many broken builds
+
+---
+
+## Fail Log
+
+* things working once and never again
+* spending hours just to get stuck at boot logo
+
+---
+
+## Things I Learned
+
+* backups are not optional
+* logs are everything
+* one change can break everything
+* patience is required (or be good at porting)
+* if it boots, don’t touch it
+
+---
+
+## Graveyard of Dead Devices
+
+> Samsung Galaxy S7
+> random budget Android phones
+> probably more i forgot
 
 ---
 
