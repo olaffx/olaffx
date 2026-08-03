@@ -131,6 +131,7 @@
 ## Setup
 
 > Arch Linux
+
 > too many broken builds
 
 ---
@@ -155,7 +156,9 @@
 ## Graveyard of Dead Devices
 
 > Samsung Galaxy S7
+
 > random budget Android phones
+
 > probably more i forgot
 
 ---
