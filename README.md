@@ -39,12 +39,15 @@
 ## Devices i Work On
 
 ### Main device
-- **Samsung Galaxy S7 (herolte)**
-  - ROMs: LineageOS / Evo X
-  - Status: loves bootlooping </3
+- **Redmi Note 9 Pro (miatoll)**
+  - ROMs: Laggy ColorOS ports / Evo X
+  - Status: ahhmazing phone
 
 ### Secondary Devices
-- Galaxy a20e, no projects for it **yet**
+
+- Samsung Galaxy S7 (bricked, rip.)
+
+- Galaxy a20e, no projects for it cuz can't unlock BL
 - and more budget Android phones (most of them bricked)
 
 - iPhone 7, a LOT of projects for it (not finished)
@@ -73,11 +76,9 @@
 ---
 ## ROMs i personally use
 
-![Evolution X for herolte (A16)](https://xdaforums.com/t/tutorial-android-16-how-to-install-evolution-x-11-0-to-galaxy-s7-exynos-g930f-herolte.4752706/)
+![Evolution X for miatoll (A16)](https://evolution-x.org/devices/miatoll)
 
-![One UI 4.1 for herolte](https://xdaforums.com/t/eylem-rom-v7-0-s10-port-one-ui-4-1-s-for-s7-s7e-n7-n7fe.4706868/)
-
-![Lineage OS 21 for herolte](https://xdaforums.com/t/lineageos-21-0-android-14-signature-spoofing-ota-updates-for-s7-exynos.4655853/)
+![PixelOS for miatoll](https://pixelos.net/download/miatoll)
 
 ---
 
