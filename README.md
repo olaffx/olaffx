@@ -10,7 +10,7 @@
 
 * ROM things idk
 * Device modding
-* Experimental stuff
+* iOS jailbreaking
 * Daily driving **Arch** Linux
 
 ---
