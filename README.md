@@ -11,6 +11,6 @@ I enjoy working on Android, experimenting with different devices and bringing ne
 AstralOS is free and open source. You can check out the project on GitHub:
 https://github.com/AstralOSProject
 
-Join the discord server: https://discord.gg/WCUbsQx3kE
+Join the discord (and Telegram) server: https://discord.gg/WCUbsQx3kE https://t.me/+lRYgKvE7l-hiZGE0
 
 Thanks for checking out my work!
